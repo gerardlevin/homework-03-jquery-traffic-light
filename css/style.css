@@ -39,3 +39,20 @@ h1 {
   margin: 25px auto;
   transition: background 500ms;
 }
+
+.off {
+  background: black;
+}
+
+.red {
+  background: red;
+}
+
+.yellow {
+  background: yellow;
+}
+
+.green {
+  background: green;
+}
+
